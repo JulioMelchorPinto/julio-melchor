@@ -1,12 +1,12 @@
 # Julio César Melchor Pinto
 Personal website using [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-## Prerequisites
-To run the entire project you need the following Command-line Tools
- - [Node.js with NPM](https://github.com/angular/angular-cli)
- - [Angular CLI](https://github.com/angular/angular-cli)
- - [Firebase CLI](https://github.com/angular/angular-cli)
+## Prerequisites
 
+To run the entire project you need the following Command-line Tools
+ - [Node.js with NPM](https://nodejs.org/es/download/package-manager/)
+ - [Angular CLI](https://www.npmjs.com/package/@angular/cli)
+ - [Firebase CLI](https://www.npmjs.com/package/firebase-tools)
 
 ## Run project in your local machine
 
