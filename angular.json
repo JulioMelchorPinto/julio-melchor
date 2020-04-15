@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "julio-melchor"
+    }
+  },
+  "defaultProject": "julio-melchor",
+  "cli": {
+    "analytics": "54d1263d-240c-489d-8226-fd28fedb1a1a"
+  }
 }
