@@ -46,9 +46,3 @@ testem.log
 Thumbs.db
 # Private Keys
 /private-keys
-# Firestore
-.firebaserc
-.firebase
-firebase.json
-firestore.rules
-database.rules.json
