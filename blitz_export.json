@@ -1,0 +1,5 @@
+{
+"htmlTemplate": "src/index.html",
+"exportProjectTo": "src",
+"ignore": [".angular-cli.json"]
+}
