@@ -3,7 +3,8 @@
 
 
 # Julio César Melchor Pinto
-Personal website using [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+Personal website using [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0. This project can be edited in [StackBlitz](https://stackblitz.com/github/JulioMelchorPinto/julio-melchor).
+
 
 ## Prerequisites
 
