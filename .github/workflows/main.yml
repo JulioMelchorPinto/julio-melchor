@@ -27,4 +27,4 @@ jobs:
         PROJECT_ID: "julio-melchor"
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
       with:
-        args: deploy
+        args: production
