@@ -9,7 +9,11 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "generate": "node ./server/generate.js > ./server/database.json",
-    "server": "json-server --watch ./server/database.json"
+    "server": "json-server --watch ./server/database.json",
+    "deploy": {
+      "builder": "@angular/fire:deploy",
+      "options": {}
+    }
   },
   "private": true,
   "dependencies": {
@@ -18,6 +22,7 @@
     "@angular/common": "~9.1.0",
     "@angular/compiler": "~9.1.0",
     "@angular/core": "~9.1.0",
+    "@angular/fire": "^6.0.0",
     "@angular/forms": "~9.1.0",
     "@angular/material": "^9.2.1",
     "@angular/platform-browser": "~9.1.0",
