@@ -1,4 +1,6 @@
 ![Node.js CI](https://github.com/JulioMelchorPinto/julio-melchor/workflows/Node.js%20CI/badge.svg?branch=master)
+![gh-pages](https://github.com/JulioMelchorPinto/julio-melchor/workflows/Build%20and%20Deploy/badge.svg)
+
 
 # Julio César Melchor Pinto
 Personal website using [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
